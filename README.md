@@ -13,3 +13,5 @@ We strive to make YGOPRODeck the best Yu-Gi-Oh! Card Database and Deck Sharing s
 * [Online Deck Builder Dedicated Github](https://github.com/FelixRilling/yugioh-deck-tool/issues) - Use this section to report  Online Deck Builder issues
 
 Please give examples when reporting bugs! 
+
+[<img src="img/newissue.png" height="35" width="156" alt="Open New Issue" />](https://github.com/AlanOC91/YGOPRODeck/issues/new)
