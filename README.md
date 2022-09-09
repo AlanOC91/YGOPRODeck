@@ -8,9 +8,9 @@ We strive to make YGOPRODeck the best Yu-Gi-Oh! Card Database and Deck Sharing s
 ## Site Sections
 
 * [Main Site](https://ygoprodeck.com) - The main website where decks are shared
-* [Card Database](https://db.ygoprodeck.com) - Dedicated Yu-Gi-Oh! Card Database
-* [Online Deck Builder](https://ygoprodeck.com/card-database/deck-prices/) - Our Online Yu-Gi-Oh! Deck Builder
-* [Online Deck Builder Dedicated Github](https://github.com/FelixRilling/yugioh-deck-tool/issues) - Use this section to report  Online Deck Builder issues
+* [Online Deck Builder](https://ygoprodeck.com/deckbuilder/) - Our Online Yu-Gi-Oh! Deck Builder
+* [Online Deck Builder Dedicated Github](https://github.com/FelixRilling/yugioh-deck-tool/issues) - Use this section to report Online Deck Builder issues
+* [Online Deck Builder Dedicated Github](https://github.com/AlanOC91/ygoprodeck-playtest) - Use this section to report Deck Playtest issues
 
 Please give examples when reporting bugs! 
 
